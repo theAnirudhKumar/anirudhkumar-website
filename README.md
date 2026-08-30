@@ -2,7 +2,7 @@
 
 Personal site for Anirudh Kumar. Static HTML/CSS/JS, no build step, no framework, no CMS.
 
-Built on the Daylight personal brand system (Deep Teal `#0D6E64`, Fraunces + Inter type pairing).
+Built on the Daylight personal brand system (Cove Teal `#066489`, Fraunces + Inter type pairing).
 
 ## Structure
 
